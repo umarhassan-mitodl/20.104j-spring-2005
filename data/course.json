@@ -1,0 +1,64 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Pharmacology and Toxicology"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biostatistics"
+    ]
+  ],
+  "legacy_uid": "0d730a53-34b0-0463-c511-a96d7cd98c7b",
+  "instructors": {
+    "content": [
+      "86025ad7-eecf-17e2-4ee7-2bbca60e0c1b",
+      "79638c7d-70dd-5b72-d099-306b2a6492d0",
+      "f087089b-6d5b-dea4-5a99-17d34810910f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ab70931f-359e-46de-9e43-1df1ed019aaf",
+    "website": "20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005"
+  },
+  "course_title": "Chemicals in the Environment: Toxicology and Public Health (BE.104J)",
+  "course_description": "This course addresses the challenges of defining a relationship between exposure to environmental chemicals and human disease. Course topics include epidemiological approaches to understanding disease causation; biostatistical methods; evaluation of human exposure to chemicals, and their internal distribution, metabolism, reactions with cellular components, and biological effects; and qualitative and quantitative health risk assessment methods used in the U.S. as bases for regulatory decision-making. Throughout the term, students consider case studies of local and national interest.\n",
+  "department_numbers": [
+    "20",
+    "1",
+    "ESD"
+  ],
+  "extra_course_numbers": "1.081J,ESD.053J",
+  "primary_course_number": "20.104J",
+  "course_image_thumbnail": {
+    "content": "6d182bfd-841e-ad26-380c-46bfafe236a2",
+    "website": "20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "aa7cc285-ef58-470b-9e97-4e53fe4b15f6",
+  "site_short_id": "20.104j-spring-2005",
+  "site_url_path": "courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005",
+  "title": "Course Metadata"
+}
